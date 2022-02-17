@@ -89,6 +89,9 @@ If you have found a bug or if you have a feature request, please report them at 
 
 [Auth0](https://auth0.com)
 
+## Reference:
+https://auth0.com/docs/quickstart/webapp/java-spring-boot
+
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](../LICENSE) file for more info.# auth0App
